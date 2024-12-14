@@ -1,4 +1,4 @@
-# HealthCare-Analytics
+# HeartAttack Prediction using Statistical tests and Machine Learning Algorithms
 HeartAttack Prediction using Statistical tests and Machine Learning Algorithms
 
 Heart Attack prediction using Machine Learning Algorithms like Logistic Regression, Random Forest and XG Boost
